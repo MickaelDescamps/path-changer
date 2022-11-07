@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+src/path_changer/__init__.py
+src/path_changer/path_changer.py
+src/path_changer.egg-info/PKG-INFO
+src/path_changer.egg-info/SOURCES.txt
+src/path_changer.egg-info/dependency_links.txt
+src/path_changer.egg-info/top_level.txt

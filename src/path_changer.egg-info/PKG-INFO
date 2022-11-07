@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: path-changer
+Version: 1.0.1
+Summary: A small package to add path of project to the list of path
+Home-page: https://github.com/MickaelDescamps/path_changer
+Author: Mickaël Descamps
+Author-email: mickael.descamps@mineyou.fr
+Project-URL: Bug Tracker, https://github.com/MickaelDescamps/path_changer
+Project-URL: repository, https://github.com/MickaelDescamps/path_changer
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# path_changer
+Python Package who provide a function to add new path
